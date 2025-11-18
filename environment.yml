@@ -1,0 +1,10 @@
+prefix: "./env"
+channels:
+  - conda-forge
+  - bioconda
+  - pytorch
+dependencies:
+  - ucsc-gtftogenepred
+  - ucsc-genepredtobed
+  - ucsc-bedtobigbed
+  - ucsc-fetchchromsizes

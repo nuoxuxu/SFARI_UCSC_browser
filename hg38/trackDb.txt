@@ -1,0 +1,5 @@
+track iPSC_Neuron_Transcriptome
+type bigBed 12 +
+bigDataUrl output.bb
+shortLabel iPSC_Neuron_Transcriptome
+longLabel Full-length isoform from human iPSC-derived neurons
