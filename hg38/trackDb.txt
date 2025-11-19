@@ -3,3 +3,4 @@ type bigBed
 bigDataUrl output.bb
 shortLabel iPSC_Neuron_Transcriptome
 longLabel Full-length isoform from human iPSC-derived neurons
+html iPSC_Neuron_Transcriptome.html
