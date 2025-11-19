@@ -1,5 +1,5 @@
 track transcriptome
-type bigBed
+type bigBed 12
 bigDataUrl output.bb
 shortLabel transcriptome
 longLabel Long-read transcriptome
