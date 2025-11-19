@@ -1,6 +1,6 @@
 hub iPSC_Neuron_Transcriptome
 shortLabel iPSC_Neuron_Transcriptome
-longLabel Full-length isoform from human iPSC-derived neurons
+longLabel iPSC_Neuron_Transcriptome
 genomesFile genomes.txt
 email nuoxu.xu@mail.utoronto.ca
 descriptionUrl https://triplab.org/
