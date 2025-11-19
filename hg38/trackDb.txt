@@ -1,6 +1,13 @@
-track iPSC_Neuron_Transcriptome
+track transcriptome
 type bigBed
 bigDataUrl output.bb
-shortLabel iPSC_Neuron_Transcriptome
-longLabel iPSC_Neuron_Transcriptome
+shortLabel transcriptome
+longLabel ORFanage-predicted long-read transcriptome
+html iPSC.html
+
+track proteome
+type bigBed
+bigDataUrl pep_output.bb
+shortLabel proteome
+longLabel Peptides detected in MS/TMT experiments
 html iPSC.html

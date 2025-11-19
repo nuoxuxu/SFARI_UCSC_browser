@@ -1,6 +1,6 @@
-hub iPSC_Neuron_Transcriptome
-shortLabel iPSC_Neuron_Transcriptome
-longLabel iPSC_Neuron_Transcriptome
+hub iPSC_Neuron_Proteogenomic_atlas
+shortLabel iPSC_Neuron_Proteogenomic_atlas
+longLabel Long-read proteogenomic atlas of human neuronal differentiation
 genomesFile genomes.txt
 email nuoxu.xu@mail.utoronto.ca
-descriptionUrl https://triplab.org/
+descriptionUrl https://nuoxuxu.shinyapps.io/transcript_vis_app/
