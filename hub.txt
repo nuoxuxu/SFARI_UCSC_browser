@@ -3,4 +3,4 @@ shortLabel iPSC_Neuron_Proteogenomic_atlas
 longLabel Long-read proteogenomic atlas of human neuronal differentiation
 genomesFile genomes.txt
 email nuoxu.xu@mail.utoronto.ca
-descriptionUrl https://nuoxuxu.shinyapps.io/transcript_vis_app/
+descriptionUrl https://triplab.org/
