@@ -6,7 +6,7 @@ longLabel Long-read transcriptome
 html iPSC.html
 
 track proteome
-type bigBed 9
+type bigBed 6
 bigDataUrl pep_output.bb
 shortLabel proteome
 longLabel Peptides detected in MS/TMT experiments
