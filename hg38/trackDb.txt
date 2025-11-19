@@ -2,7 +2,7 @@ track transcriptome
 type bigBed
 bigDataUrl output.bb
 shortLabel transcriptome
-longLabel ORFanage-predicted long-read transcriptome
+longLabel Long-read transcriptome
 html iPSC.html
 
 track proteome
